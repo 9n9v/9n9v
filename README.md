@@ -4,9 +4,8 @@
 👋 Hello, I'm Jakub and I find bugs :bug:
 
 ## Skills and Experience
-"*Soft*"
+__Soft__
 GitHub, Jira, DevTools, Postman
-
-HTML, CSS, JS
+HTML, CSS, JS, SQL, Pyhton
 
 
