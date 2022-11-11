@@ -4,7 +4,7 @@
 👋 Hello, I'm Jakub and I find bugs :bug:
 
 ## Courses 
-* __Manual Tester in CodersLab Academy__  
+* __Bootcamp: Manual Tester in CodersLab Academy__  
 * __The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (Udemy)__
 ## Certificate
 * __ISTQB Foundation Level__  
