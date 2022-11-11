@@ -4,29 +4,27 @@
 👋 Hello, I'm Jakub and I find bugs :bug:
 
 ## Courses 
-__Manual Tester in CodersLab Academy__  
-
+*__Manual Tester in CodersLab Academy__  
+*__The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (Udemy)__
 ## Certificate
-__ISTQB Foundation Level__  
+*__ISTQB Foundation Level__  
 
 ## Tools
 Jira, GitHub, DevTools, Postman, HTML, CSS, JS, SQL, Pyhton   
 
-## Skills and Experience
-
 ## Example of work
-### Bugs
+*### Bugs
 __TEst.OI MR buggy__ 
 
-### Test Cases
+*### Test Cases
 __Mr buggy__  
 
-### SQL
+*### SQL
 __MY SQL, XAMP tebelki zapytania__ 
 
-### HTML/CSS
+*### HTML/CSS
 __CV site__  
 
-### Rest API
+*### Rest API
 __Postman testing BIN__ 
 
