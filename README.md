@@ -3,6 +3,10 @@
 # Jakub Ewczyński
 👋 Hello, I'm Jakub and I find bugs :bug:
 
-## *Skills and Experience* 
+## Skills and Experience
+"*Soft*"
+GitHub, Jira, DevTools, Postman
+
+HTML, CSS, JS
 
 
