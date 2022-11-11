@@ -14,7 +14,7 @@ Jira, GitHub, DevTools, Postman, HTML, CSS, JS, SQL, Pyhton
 
 ## Example of work
 * ### Bugs
-__TEst.OI MR buggy__ 
+__[TEst.OI](https://media.tenor.com/images/fbfe34150d08d0b3f6681d8cdebd6a0f/tenor.png) MR buggy__ 
 
 * ### Test Cases
 __Mr buggy__  
